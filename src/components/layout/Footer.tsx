@@ -21,13 +21,18 @@ export const Footer: React.FC = () => {
         <div className="footer-grid">
           {/* Col 1: Studio Monogram & Tagline */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
-            <div>
-              <span className="brand-name" style={{ fontSize: '1.75rem' }}>
-                Lumen Atelier
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+              <span className="wooden-monogram" style={{ width: '44px', height: '44px', fontSize: '1.2rem' }}>
+                RI
               </span>
-              <p className="brand-sub" style={{ fontSize: '0.75rem', marginTop: '0.2rem' }}>
-                {t.nav.brandSub}
-              </p>
+              <div>
+                <span className="brand-name" style={{ fontSize: '1.6rem' }}>
+                  {t.nav.brandName}
+                </span>
+                <p className="brand-sub" style={{ fontSize: '0.75rem', marginTop: '0.15rem' }}>
+                  {t.nav.brandSub}
+                </p>
+              </div>
             </div>
             <p style={{ fontSize: '0.95rem', color: 'var(--text-secondary)', maxWidth: '340px', lineHeight: 1.7 }}>
               {t.footer.tagline}

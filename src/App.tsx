@@ -18,7 +18,7 @@ import type { Project } from './types/project';
 const PortfolioApp: React.FC = () => {
   // Theme State
   const [theme, setTheme] = useState<'light' | 'dark'>(() => {
-    const saved = localStorage.getItem('lumen_theme');
+    const saved = localStorage.getItem('rezaul_theme') || localStorage.getItem('lumen_theme');
     if (saved === 'dark' || saved === 'light') return saved;
     return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
   });
@@ -28,7 +28,7 @@ const PortfolioApp: React.FC = () => {
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('lumen_theme', theme);
+    localStorage.setItem('rezaul_theme', theme);
   }, [theme]);
 
   const toggleTheme = () => {

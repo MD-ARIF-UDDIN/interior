@@ -14,12 +14,12 @@ const LanguageContext = createContext<LanguageContextType | undefined>(undefined
 
 export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [language, setLanguageState] = useState<Language>(() => {
-    const saved = localStorage.getItem('lumen_lang');
+    const saved = localStorage.getItem('rezaul_lang') || localStorage.getItem('lumen_lang');
     return saved === 'bn' || saved === 'en' ? saved : 'en';
   });
 
   useEffect(() => {
-    localStorage.setItem('lumen_lang', language);
+    localStorage.setItem('rezaul_lang', language);
     document.documentElement.lang = language;
     if (language === 'bn') {
       document.body.classList.add('lang-bn');

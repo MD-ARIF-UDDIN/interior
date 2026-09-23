@@ -3,7 +3,7 @@ export type Language = 'en' | 'bn';
 export const translations = {
   en: {
     nav: {
-      brandName: 'Lumen Atelier',
+      brandName: 'Rezaul Interior',
       brandSub: 'Architecture & Interior Atelier • Chattogram',
       projects: 'Selected Works',
       philosophy: 'Philosophy',
@@ -23,7 +23,7 @@ export const translations = {
     },
     whatsapp: {
       tooltip: 'Chat with Principal Architect',
-      greeting: 'Hello Lumen Atelier, I would like to discuss an interior design project in Chattogram / Dhaka.',
+      greeting: 'Hello Rezaul Interior, I would like to discuss an interior design project in Chattogram / Dhaka.',
     },
     hero: {
       badge: 'BESPOKE ARCHITECTURE & INTERIORS • CHATTOGRAM',
@@ -154,7 +154,7 @@ export const translations = {
       londonStudio: 'Dhaka Liaison Atelier: Road 11, Banani, Dhaka 1213',
       quickLinks: 'Navigation',
       socials: 'Connect With Us',
-      rights: 'All rights reserved. Lumen Atelier Architectural Interiors.',
+      rights: 'All rights reserved. Rezaul Interior Architectural Design.',
       newsletterTitle: 'The Editorial Journal',
       newsletterSub: 'Receive our quarterly curated monograph on architecture, coastal interior trends, and artisan materials.',
       newsletterPlaceholder: 'Enter your email address',
@@ -168,7 +168,7 @@ export const translations = {
   },
   bn: {
     nav: {
-      brandName: 'লুমেন অ্যাটেলিয়ার',
+      brandName: 'রেজাউল ইন্টেরিয়র',
       brandSub: 'আর্কিটেকচার ও ইন্টেরিয়র অ্যাটেলিয়ার • চট্টগ্রাম',
       projects: 'নির্বাচিত প্রজেক্ট',
       philosophy: 'আমাদের দর্শন',
@@ -188,7 +188,7 @@ export const translations = {
     },
     whatsapp: {
       tooltip: 'আর্কিটেক্টের সাথে সরাসরি কথা বলুন',
-      greeting: 'হ্যালো লুমেন অ্যাটেলিয়ার, আমি চট্টগ্রাম/ঢাকাতে একটি ইন্টেরিয়র ডিজাইন প্রজেক্ট নিয়ে পরামর্শ করতে চাই।',
+      greeting: 'হ্যালো রেজাউল ইন্টেরিয়র, আমি চট্টগ্রাম/ঢাকাতে একটি ইন্টেরিয়র ডিজাইন প্রজেক্ট নিয়ে পরামর্শ করতে চাই।',
     },
     hero: {
       badge: 'বিলাসবহুল স্থাপত্য ও ইন্টেরিয়র ডিজাইন • চট্টগ্রাম',
@@ -319,7 +319,7 @@ export const translations = {
       londonStudio: 'ঢাকা লিয়াজোঁ অ্যাটেলিয়ার: রোড ১১, বনানী, ঢাকা ১২১৩',
       quickLinks: 'দ্রুত লিংক',
       socials: 'যুক্ত থাকুন',
-      rights: 'সর্বস্বত্ব সংরক্ষিত। লুমেন অ্যাটেলিয়ার আর্কিটেকচারাল ইন্টেরিয়রস।',
+      rights: 'সর্বস্বত্ব সংরক্ষিত। রেজাউল ইন্টেরিয়র আর্কিটেকচারাল ডিজাইন।',
       newsletterTitle: 'ডিজাইন জার্নাল সাবস্ক্রিপশন',
       newsletterSub: 'উপকূলীয় ইন্টেরিয়র ট্রেন্ডস, আর্কিটেকচারাল ইনসাইট ও উপাদান নিয়ে আমাদের ত্রৈমাসিক জার্নাল পেতে সাবস্ক্রাইব করুন।',
       newsletterPlaceholder: 'আপনার ইমেইল লিখুন',

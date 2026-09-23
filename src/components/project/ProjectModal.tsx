@@ -43,7 +43,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({
   const phoneNumber = '8801825334505';
   const projectTitle = localize(project.title);
   const waProjectMessage = encodeURIComponent(
-    `Hello Lumen Atelier, I am interested in discussing a project similar to "${projectTitle}" (${localize(project.specs.location)}).`
+    `Hello Rezaul Interior, I am interested in discussing a project similar to "${projectTitle}" (${localize(project.specs.location)}).`
   );
   const waProjectUrl = `https://wa.me/${phoneNumber}?text=${waProjectMessage}`;
 

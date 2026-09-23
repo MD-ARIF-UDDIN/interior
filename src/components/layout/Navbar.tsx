@@ -41,7 +41,7 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Architectural Brand Monogram & Title */}
         <a href="#" className="brand-logo" onClick={closeMobileMenu}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem' }}>
-            <span className="wooden-monogram">LA</span>
+            <span className="wooden-monogram">RI</span>
             <div style={{ display: 'flex', flexDirection: 'column' }}>
               <span className="brand-name">{t.nav.brandName}</span>
               <span className="brand-sub">{t.nav.brandSub}</span>
