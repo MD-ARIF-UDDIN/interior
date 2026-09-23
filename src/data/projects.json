@@ -1,0 +1,477 @@
+[
+  {
+    "id": "proj-01",
+    "slug": "the-travertine-penthouse-khulshi",
+    "title": {
+      "en": "The Travertine Sky Penthouse",
+      "bn": "দ্য ট্রাভার্টাইন স্কাই পেন্টহাউস"
+    },
+    "subtitle": {
+      "en": "A 5,400 sq ft double-height sky sanctuary carved in Italian stone and fluted oak.",
+      "bn": "দক্ষিণ খুলশীর মনোরম পাহাড় ঘেঁষে ৫,৪০০ বর্গফুটের লাক্সারি ট্রাভার্টাইন পেন্টহাউস।"
+    },
+    "category": "penthouse",
+    "categoryLabel": {
+      "en": "Penthouse & Villa",
+      "bn": "পেন্টহাউস ও ভিলা"
+    },
+    "featured": true,
+    "heroImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=85",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1600573472591-ee6981cf35b6?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "beforeAfter": {
+      "beforeImage": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+      "afterImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=85",
+      "beforeLabel": {
+        "en": "Raw Concrete Shell (Pre-Design)",
+        "bn": "অসমাপ্ত কংক্রিট পূর্বাবস্থা"
+      },
+      "afterLabel": {
+        "en": "Travertine Monolith & Ambient Vault",
+        "bn": "ট্রাভার্টাইন মার্বেল ও রাজকীয় রূপান্তর"
+      },
+      "description": {
+        "en": "Transformed an unfinished 5,400 sq ft concrete shell into a seamless sculptural sky residence overlooking the Khulshi hills.",
+        "bn": "খুলশীর সবুজ পাহাড়ের দৃশ্য উপভোগের উপযোগী করে ৫,৪০০ বর্গফুটের স্পেসকে একটি রাজকীয় বাসস্থানে রূপান্তর করা হয়েছে।"
+      }
+    },
+    "palette": [
+      { "name": { "en": "Roman Travertine", "bn": "রোমান ট্রাভার্টাইন" }, "hex": "#D8CAB8", "role": { "en": "Primary Stone", "bn": "মূল পাথর" } },
+      { "name": { "en": "Fluted Smoked Oak", "bn": "ফ্লাটেড ওক" }, "hex": "#4A3B32", "role": { "en": "Architectural Joinery", "bn": "কাঠের কাঠামো" } },
+      { "name": { "en": "Brushed Champagne Brass", "bn": "শ্যাম্পেন ব্রাস" }, "hex": "#C5A880", "role": { "en": "Hardware & Accents", "bn": "মেটাল অ্যাকসেন্ট" } },
+      { "name": { "en": "Linen Canvas", "bn": "লিনেন ক্যানভাস" }, "hex": "#F4EFE6", "role": { "en": "Wall Plaster", "bn": "দেয়ালের ফিনিশিং" } }
+    ],
+    "materials": [
+      {
+        "name": { "en": "Navona Travertine", "bn": "নাভোনা ট্রাভার্টাইন" },
+        "description": { "en": "Unfilled honed Italian stone creating tactile earthy grounding across living zones.", "bn": "ইতালীয় ট্রাভার্টাইন স্টোন যা লিভিং স্পেসে প্রাকৃতিক স্নিগ্ধতা তৈরি করে।" },
+        "texture": "https://images.unsplash.com/photo-1598880940371-c756e015fea1?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Natural Stone", "bn": "প্রাকৃতিক পাথর" }
+      },
+      {
+        "name": { "en": "Custom Smoked Oak", "bn": "স্মোকড ওক" },
+        "description": { "en": "Vertical fluting custom milled to enhance acoustic balance and conceal storage.", "bn": "ভার্টিক্যাল ফ্লাটেড ওক কাঠ যা শব্দ নিয়ন্ত্রণ ও হিডেন স্টোরেজের ব্যবস্থা করে।" },
+        "texture": "https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Timber", "bn": "কাঠ" }
+      }
+    ],
+    "overview": {
+      "en": "Perched atop South Khulshi's most prestigious residential high-rise, this penthouse captures panoramic sunrises over the hills and serene coastal breezes. Designed with double-height ceiling volumes and seamless monolithic stone transitions.",
+      "bn": "দক্ষিণ খুলশীর উঁচু পাহাড় ঘেঁষে অবস্থিত এই পেন্টহাউসটি চট্টগ্রামের শীর্ষস্থানীয় শিল্পপতির জন্য তৈরি। এখানে রয়েছে ডাবল-হাইট সিলিং এবং প্রাকৃতিক আলোর অপূর্ব খেলা।"
+    },
+    "designBrief": {
+      "en": "Create a unified open-concept living area with seamless zoning for entertaining 40+ guests while maintaining an intimate family sanctuary.",
+      "bn": "৪০+ অতিথির আধুনিক আপ্যায়ন ও পারিবারের একান্ত সময় কাটানোর উপযুক্ত শান্ত পরিবেশ নিশ্চিত করা।"
+    },
+    "challenges": {
+      "en": "Heavy coastal humidity and massive concrete support pillars obstructing the panoramic hill views.",
+      "bn": "উপকূলীয় আর্দ্রতা এবং বিশাল কংক্রিট পিলারের কারণে প্রাকৃতিক দৃশ্যে বাধার সৃষ্টি হচ্ছিল।"
+    },
+    "solutions": {
+      "en": "Encased the structural columns with moisture-sealed fluted oak veneer incorporating hidden LED cove channels and a climate-controlled walk-in cigar & wine lounge.",
+      "bn": "পিলারগুলোকে ওয়াটার-রেজিস্ট্যান্ট ফ্লাটেড কাঠের কারুকার্য ও অ্যাম্বিয়েন্ট লাইটিং দিয়ে ঢেকে লাক্সারি ওয়াইন ও সিগার কর্নার বানানো হয়েছে।"
+    },
+    "specs": {
+      "location": { "en": "South Khulshi R/A, Chattogram", "bn": "দক্ষিণ খুলশী আ/এ, চট্টগ্রাম" },
+      "year": 2025,
+      "areaSqFt": 5400,
+      "duration": { "en": "8 Months", "bn": "৮ মাস" },
+      "style": { "en": "Contemporary Luxury & Travertine", "bn": "কনটেম্পোরারি লাক্সারি" },
+      "scope": { "en": "Full Architecture & Turnkey Interior", "bn": "সম্পূর্ণ আর্কিটেকচার ও টার্নকি ইন্টেরিয়র" },
+      "clientType": { "en": "Leading Industrialist & Shipping Magnate", "bn": "শিল্পপতি ও শিপিং ব্যবসায়ী" }
+    },
+    "awards": [
+      { "en": "Winner: Chattogram Architectural Interior of the Year 2025", "bn": "সেরা চট্টগ্রাম আর্কিটেকচারাল অ্যাওয়ার্ড ২০২৫" }
+    ],
+    "tags": [
+      { "en": "South Khulshi", "bn": "দক্ষিণ খুলশী" },
+      { "en": "Penthouse", "bn": "পেন্টহাউস" },
+      { "en": "Travertine Stone", "bn": "ট্রাভার্টাইন পাথর" },
+      { "en": "Double-Height", "bn": "ডাবল হাইট" }
+    ]
+  },
+  {
+    "id": "proj-02",
+    "slug": "nasirabad-hillside-japandi-villa",
+    "title": {
+      "en": "The Hillside Japandi Villa",
+      "bn": "নাসিরাবাদ হিলসাইড জাপান্দি ভিলা"
+    },
+    "subtitle": {
+      "en": "Organic minimalism merging Japanese wabi-sabi principles with tropical hillside tranquility.",
+      "bn": "নাসিরাবাদের সবুজ পাহাড়ে অবস্থিত ওয়াবি-সাবি ও আধুনিক মিনিমালিস্ট ডুপ্লেক্স ভিলা।"
+    },
+    "category": "minimalist",
+    "categoryLabel": {
+      "en": "Japandi & Minimalist",
+      "bn": "জাপান্দি ও মিনিমালিস্ট"
+    },
+    "featured": true,
+    "heroImage": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=85",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "beforeAfter": {
+      "beforeImage": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "afterImage": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=85",
+      "beforeLabel": {
+        "en": "Dark Enclosed Interior (Pre-Design)",
+        "bn": "অন্ধকার ও আবদ্ধ পূর্বাবস্থা"
+      },
+      "afterLabel": {
+        "en": "Zen Hillside Courtyard Flow",
+        "bn": "শান্ত ও উন্মুক্ত জেন ইন্টেরিয়র"
+      },
+      "description": {
+        "en": "Replaced heavy concrete partitions with sliding shoji-inspired ribbed glass screens and textured lime plaster walls to capture daylight from the Nasirabad hills.",
+        "bn": "অপ্রয়োজনীয় দেয়াল সরিয়ে রিবড গ্লাস ও প্রাকৃতিক লাইম প্লাস্টার ব্যবহারে ঘরকে আলোকিত ও স্নিগ্ধ করা হয়েছে।"
+      }
+    },
+    "palette": [
+      { "name": { "en": "Raw Washed Linen", "bn": "র লিনেন" }, "hex": "#EDE6DA", "role": { "en": "Base Walls", "bn": "দেয়াল" } },
+      { "name": { "en": "Natural Hinoki Ash", "bn": "হিনোকি কাঠ" }, "hex": "#C9B29B", "role": { "en": "Joinery", "bn": "ফার্নিচার" } },
+      { "name": { "en": "Hillside Moss", "bn": "হিলসাইড মস" }, "hex": "#6E7A68", "role": { "en": "Textiles", "bn": "ফেব্রিক" } },
+      { "name": { "en": "Cast Iron Charcoal", "bn": "চারকোল" }, "hex": "#2B2A29", "role": { "en": "Accents", "bn": "অ্যাকসেন্ট" } }
+    ],
+    "materials": [
+      {
+        "name": { "en": "Artisanal Lime Wash", "bn": "লাইম ওয়াশ প্লাস্টার" },
+        "description": { "en": "Breathable mineral finish with subtle cloud-like texture reflecting natural daylight softly.", "bn": "প্রাকৃতিক খনিজ প্লাস্টার যা কোমল আলো ছড়িয়ে শান্ত আবহ তৈরি করে।" },
+        "texture": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Wall Plaster", "bn": "দেয়ালের প্লাস্টার" }
+      },
+      {
+        "name": { "en": "Organic Bouclé", "bn": "অর্গানিক বুঁক্লে" },
+        "description": { "en": "High-tactile wool loop upholstery bringing cozy warmth to low-slung lounge furniture.", "bn": "নরম উলের তৈরি টেক্সটাইল যা সোফা ও সিটিংয়ে আরামদায়ক অনুভূতি দেয়।" },
+        "texture": "https://images.unsplash.com/photo-1584589167171-541ce45f1eea?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Textile", "bn": "ফেব্রিক" }
+      }
+    ],
+    "overview": {
+      "en": "Nestled inside Nasirabad Housing Society, this 4,300 sq ft duplex was redesigned for a senior surgeon seeking deep silence and restorative natural aesthetics after grueling hospital hours.",
+      "bn": "নাসিরাবাদ হাউজিং সোসাইটির শান্ত পরিবেশে ৪,৩০০ বর্গফুটের এই ডুপ্লেক্স ভিলাটি মানসিক প্রশান্তি ও পারিবারিক উষ্ণতার এক অপূর্ব সমন্বয়।"
+    },
+    "designBrief": {
+      "en": "Design a low-stimulation interior focused on wellness, indoor-outdoor connectivity with the garden, and mindful daily rituals.",
+      "bn": "ইনডোর প্ল্যান্ট ও বাগানের সাথে সরাসরি সংযোগ রেখে শান্ত, পরিচ্ছন্ন ও নিরিবিলি আবাসন নিশ্চিত করা।"
+    },
+    "challenges": {
+      "en": "Low ground floor ceilings and excessive glare from western afternoon sun.",
+      "bn": "নিচতলার নিচু সিলিং এবং বিকালের তীব্র রোদের কারণে তাপমাত্রা বেড়ে যেত।"
+    },
+    "solutions": {
+      "en": "Installed motorized woven wood louvers, continuous horizontal datums, and floor-recessed uplighting to visually double ceiling height.",
+      "bn": "হরাইজন্টাল উড প্যানেলিং ও কাস্টম সান-ফিল্টারিং লুভারস ব্যবহার করে ঘরের তাপমাত্রা ও উচ্চতার নিখুঁত সমাধান করা হয়েছে।"
+    },
+    "specs": {
+      "location": { "en": "Nasirabad Housing Society, Chattogram", "bn": "নাসিরাবাদ হাউজিং সোসাইটি, চট্টগ্রাম" },
+      "year": 2024,
+      "areaSqFt": 4300,
+      "duration": { "en": "6.5 Months", "bn": "৬.৫ মাস" },
+      "style": { "en": "Japandi & Wabi-Sabi", "bn": "জাপান্দি ও ওয়াবি-সাবি" },
+      "scope": { "en": "Duplex Remodel & Bespoke Joinery", "bn": "ডুপ্লেক্স রিমডেল ও ফার্নিচার" },
+      "clientType": { "en": "Senior Surgeon & Medical Academic", "bn": "সিনিয়র সার্জন ও চিকিৎসক" }
+    },
+    "tags": [
+      { "en": "Nasirabad", "bn": "নাসিরাবাদ" },
+      { "en": "Japandi", "bn": "জাপান্দি" },
+      { "en": "Wabi-Sabi", "bn": "ওয়াবি-সাবি" },
+      { "en": "Duplex Villa", "bn": "ডুপ্লেক্স ভিলা" }
+    ]
+  },
+  {
+    "id": "proj-03",
+    "slug": "or-nizam-culinary-atelier",
+    "title": {
+      "en": "The Obsidian Culinary Atelier",
+      "bn": "ও.আর. নিজাম রোড কালিনারি অ্যাটেলিয়ার"
+    },
+    "subtitle": {
+      "en": "A dramatic open chef's kitchen with bookmatched Nero Marquina marble and fluted bronze.",
+      "bn": "ও.আর. নিজাম রোডের লাক্সারি অ্যাপার্টমেন্টে নেরো মারকুইনা মার্বেলে তৈরি ওপেন শেফ'স কিচেন।"
+    },
+    "category": "residential",
+    "categoryLabel": {
+      "en": "Private Residences",
+      "bn": "রেসিডেন্সিয়াল হোম"
+    },
+    "featured": true,
+    "heroImage": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=85",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "beforeAfter": {
+      "beforeImage": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+      "afterImage": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=85",
+      "beforeLabel": {
+        "en": "Closed Box Kitchen (Pre-Design)",
+        "bn": "পুরোনো সংকীর্ণ রান্নাঘর"
+      },
+      "afterLabel": {
+        "en": "18ft Cantilevered Stone Island",
+        "bn": "১৮ ফুটের বিলাসবহুল মার্বেল আইল্যান্ড"
+      },
+      "description": {
+        "en": "Demolished walls to create a social dining theatre with integrated induction hobs and hidden appliance pantries.",
+        "bn": "দেয়াল ভেঙে একটি মুক্ত শেফ'স আইল্যান্ড ও ডাইনিং তৈরি করা হয়েছে যেখানে রান্নার সব অ্যাপ্লায়েন্স নিখুঁতভাবে লুকানো।"
+      }
+    },
+    "palette": [
+      { "name": { "en": "Nero Marquina", "bn": "নেরো মারকুইনা" }, "hex": "#1C1D21", "role": { "en": "Island Monolith", "bn": "কিচেন আইল্যান্ড" } },
+      { "name": { "en": "Brushed Dark Bronze", "bn": "ডার্ক ব্রোঞ্জ" }, "hex": "#544B42", "role": { "en": "Cabinet Trim", "bn": "ক্যাবিনেট ট্রিম" } },
+      { "name": { "en": "Warm Greige", "bn": "ওয়ার্ম গ্রেজ" }, "hex": "#C4BCB3", "role": { "en": "Ceiling Vault", "bn": "সিলিং" } }
+    ],
+    "materials": [
+      {
+        "name": { "en": "Bookmatched Nero Marble", "bn": "বুকম্যাচড মার্বেল" },
+        "description": { "en": "Dramatic white lightning veins continuous across 4 slab faces.", "bn": "কালো মার্বেলের ওপর প্রাকৃতিক সাদা শিরার নিখুঁত বুকম্যাচিং ফিনিশ।" },
+        "texture": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Natural Stone", "bn": "প্রাকৃতিক পাথর" }
+      }
+    ],
+    "overview": {
+      "en": "Situated on O.R. Nizam Road, this culinary space was designed for a food enthusiast family that hosts weekend gourmet dinners. Features motorized pocket doors, built-in wine coolers, and custom atmospheric downlights.",
+      "bn": "ও.আর. নিজাম রোডের প্রাইম লোকেশনে অবস্থিত এই কিচেনটিতে রয়েছে হিডেন ক্যাবিনেট, ব্রাস গ্লাস রেক এবং স্মার্ট মুড লাইটিং।"
+    },
+    "designBrief": {
+      "en": "Seamlessly integrate high-performance culinary extraction without bulky overhead chimney hoods.",
+      "bn": "রান্নার সব জটিল কার্যকারিতাকে এমনভাবে লুকানো যেন পুরো স্পেসটি একটি আর্ট গ্যালারির মতো দৃষ্টিনন্দন দেখায়।"
+    },
+    "challenges": {
+      "en": "Complex overhead gas and plumbing ducts in an established residential apartment building.",
+      "bn": "বিল্ডিংয়ের পুরোনো ডাক্ট লাইনের কারণে সিলিং নিচু না করে ডাক্টিং করা একটি বড় চ্যালেঞ্জ ছিল।"
+    },
+    "solutions": {
+      "en": "Installed flush downdraft induction technology directly within the stone island, eliminating bulky overhead extractors.",
+      "bn": "মার্বেল আইল্যান্ডের ভেতরেই ফ্লাশ ডাউনড্রাফট ভেন্টিলেশন যুক্ত করে ওভারহেড হুডের প্রয়োজনীয়তা দূর করা হয়েছে।"
+    },
+    "specs": {
+      "location": { "en": "O.R. Nizam Road R/A, Chattogram", "bn": "ও.আর. নিজাম রোড আ/এ, চট্টগ্রাম" },
+      "year": 2025,
+      "areaSqFt": 2100,
+      "duration": { "en": "4 Months", "bn": "৪ মাস" },
+      "style": { "en": "Moody Modernist Luxury", "bn": "মুডি মডার্ন লাক্সারি" },
+      "scope": { "en": "Kitchen & Dining Architecture", "bn": "কিচেন ও ডাইনিং আর্কিটেকচার" },
+      "clientType": { "en": "Private Family & Food Entrepreneur", "bn": "ব্যক্তিগত ক্লায়েন্ট" }
+    },
+    "tags": [
+      { "en": "O.R. Nizam Road", "bn": "ও.আর. নিজাম রোড" },
+      { "en": "Chef's Kitchen", "bn": "শেফ'স কিচেন" },
+      { "en": "Nero Marble", "bn": "নেরো মার্বেল" }
+    ]
+  },
+  {
+    "id": "proj-04",
+    "slug": "agrabad-maritime-executive-hq",
+    "title": {
+      "en": "The Maritime Executive Atelier",
+      "bn": "আগ্রাবাদ মেরিটাইম এক্সিকিউটিভ হেডকোয়ার্টার"
+    },
+    "subtitle": {
+      "en": "A biophilic corporate studio with curved acoustic glass pods and warm timber ribbing.",
+      "bn": "আগ্রাবাদ বাণিজ্যিক এলাকার আধুনিক শিপিং ও মেরিটাইম করপোরেট হেডকোয়ার্টার।"
+    },
+    "category": "commercial",
+    "categoryLabel": {
+      "en": "Commercial & Studios",
+      "bn": "কমার্শিয়াল ও অফিস"
+    },
+    "featured": true,
+    "heroImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=85",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "palette": [
+      { "name": { "en": "Warm Microcement", "bn": "মাইক্রোসিমেন্ট" }, "hex": "#B8B5AE", "role": { "en": "Seamless Flooring", "bn": "ফ্লোরিং" } },
+      { "name": { "en": "Nordic Birch", "bn": "বার্চ কাঠ" }, "hex": "#E0CEB5", "role": { "en": "Curved Ribs", "bn": "কার্ভড ওয়াল" } },
+      { "name": { "en": "Bay Navy", "bn": "বে নেভি ব্লু" }, "hex": "#1E2A38", "role": { "en": "Executive Suites", "bn": "এক্সিকিউটিভ স্যুট" } }
+    ],
+    "materials": [
+      {
+        "name": { "en": "Acoustic Slatted Birch", "bn": "অ্যাকোস্টিক বার্চ কাঠ" },
+        "description": { "en": "Absorbs office resonance while providing dynamic warmth.", "bn": "শব্দ শোষণকারী কাঠের প্যানেল যা শান্ত কাজের পরিবেশ নিশ্চিত করে।" },
+        "texture": "https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Timber", "bn": "কাঠ" }
+      }
+    ],
+    "overview": {
+      "en": "Located in Agrabad C/A, this 8,200 sq ft headquarters houses an international marine logistics firm. Balances high-security boardroom privacy with collaborative biophilic green atriums.",
+      "bn": "আগ্রাবাদ কমার্শিয়াল এরিয়ায় অবস্থিত ৮,২০০ বর্গফুটের এই হেডকোয়ার্টারটি আন্তর্জাতিক শিপিং ও লজিস্টিকস প্রতিষ্ঠানের জন্য আধুনিক সুবিধায় ডিজাইন করা হয়েছে।"
+    },
+    "designBrief": {
+      "en": "Create a progressive corporate interior reflecting Chattogram's historic maritime identity while offering cutting-edge acoustic isolation.",
+      "bn": "চট্টগ্রামের ঐতিহাসিক বন্দর সংস্কৃতির প্রতিফলন রেখে আন্তর্জাতিক মানের একটি আধুনিক অফিস তৈরি করা।"
+    },
+    "challenges": {
+      "en": "Heavy street noise from Agrabad intersection disrupting executive board meetings.",
+      "bn": "আগ্রাবাদের মূল সড়কের তীব্র শব্দ বোর্ডের মিটিংয়ে বাধা সৃষ্টি করছিল।"
+    },
+    "solutions": {
+      "en": "Engineered triple-glazed curved acoustic pods lined with micro-perforated natural wood veneer and sound-trapping ceilings.",
+      "bn": "ট্রিপল-গ্লেজড সাউন্ডপ্রুফ গ্লাস এবং অ্যাকোস্টিক উড প্যানেলিং ব্যবহার করে সম্পূর্ণ শব্দহীন রুম তৈরি করা হয়েছে।"
+    },
+    "specs": {
+      "location": { "en": "Agrabad Commercial Area, Chattogram", "bn": "আগ্রাবাদ বাণিজ্যিক এলাকা, চট্টগ্রাম" },
+      "year": 2024,
+      "areaSqFt": 8200,
+      "duration": { "en": "7 Months", "bn": "৭ মাস" },
+      "style": { "en": "Biophilic Corporate Architecture", "bn": "বায়োফিলিক করপোরেট আর্কিটেকচার" },
+      "scope": { "en": "Turnkey Workspace Architecture", "bn": "টার্নকি ওয়ার্কস্পেস ডিজাইন" },
+      "clientType": { "en": "International Maritime Logistics Group", "bn": "শিপিং ও লজিস্টিকস গ্রুপ" }
+    },
+    "tags": [
+      { "en": "Agrabad C/A", "bn": "আগ্রাবাদ" },
+      { "en": "Corporate HQ", "bn": "করপোরেট হেডকোয়ার্টার" },
+      { "en": "Acoustic Glass", "bn": "অ্যাকোস্টিক গ্লাস" }
+    ]
+  },
+  {
+    "id": "proj-05",
+    "slug": "patenga-coastal-villa-suite",
+    "title": {
+      "en": "The Bayview Coastal Master Suite",
+      "bn": "পতেঙ্গা কোস্টাল মাস্টার স্যুট ও ভিলা"
+    },
+    "subtitle": {
+      "en": "A tranquil oceanfront master suite with freestanding stone tub, lime plaster, and linen curtains.",
+      "bn": "বঙ্গোপসাগরের মনোরম ঢেউ উপভোগের জন্য স্যান্ডস্টোন ও লিনেনে সাজানো সি-ভিউ মাস্টার স্যুট।"
+    },
+    "category": "residential",
+    "categoryLabel": {
+      "en": "Private Residences",
+      "bn": "রেসিডেন্সিয়াল হোম"
+    },
+    "featured": false,
+    "heroImage": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1600&q=85",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "palette": [
+      { "name": { "en": "Warm Sandstone", "bn": "স্যান্ডস্টোন" }, "hex": "#D1C7BD", "role": { "en": "Master Bed Niche", "bn": "বেডরুমের দেয়াল" } },
+      { "name": { "en": "Sea-Mist Linen", "bn": "সি-মিস্ট লিনেন" }, "hex": "#FAF8F5", "role": { "en": "Drapery & Bedding", "bn": "পর্দা ও বেডিং" } },
+      { "name": { "en": "Bleached Teak", "bn": "ব্লীচড টিক উড" }, "hex": "#C2B29F", "role": { "en": "Floating Bedframe", "bn": "ফ্লোটিং বেড" } }
+    ],
+    "materials": [
+      {
+        "name": { "en": "Honed Sandstone", "bn": "হোনড স্যান্ডস্টোন" },
+        "description": { "en": "Soft velvety natural texture resistant to sea salt air.", "bn": "কোমল প্রাকৃতিক পাথর যা লোনা বাতাসের আর্দ্রতা সহনশীল।" },
+        "texture": "https://images.unsplash.com/photo-1598880940371-c756e015fea1?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Natural Stone", "bn": "প্রাকৃতিক পাথর" }
+      }
+    ],
+    "overview": {
+      "en": "Designed along the Patenga coastal corridor, this private beachfront villa suite embraces ocean horizon views through motorized floor-to-ceiling glass doors and organic Belgian linen drapery.",
+      "bn": "পতেঙ্গা সমুদ্র উপকূলের পাশে অবস্থিত এই স্যুটটিতে প্রাকৃতিক বাতাস ও সমুদ্রের সৌন্দর্যকে ঘরের ভেতরে উন্মুক্ত করে দেওয়া হয়েছে।"
+    },
+    "designBrief": {
+      "en": "Create a serene 5-star Mediterranean retreat aesthetic engineered against coastal saline winds.",
+      "bn": "৫-তারকা রিসোর্টের আদলে লবণাক্ত বাতাস প্রতিরোধী প্রাকৃতিক ম্যাটেরিয়ালে মাস্টার স্যুট ডিজাইন করা।"
+    },
+    "challenges": {
+      "en": "High salinity in the air that damages traditional metal hardware and wood finishes.",
+      "bn": "সমুদ্রের লোনা বাতাস ধাতব ফিটিংস ও সাধারণ কাঠের ফিনিশ দ্রুত নষ্ট করে দেয়।"
+    },
+    "solutions": {
+      "en": "Used marine-grade 316 stainless brass accents and anti-fungal lime wash plaster on all masonry surfaces.",
+      "bn": "মেরিন-গ্রেড ব্রাস হার্ডওয়্যার এবং অ্যান্টি-ফাংগাল ন্যাচারাল লাইম পেইন্ট ব্যবহার করে দীর্ঘস্থায়ী ফিনিশ নিশ্চিত করা হয়েছে।"
+    },
+    "specs": {
+      "location": { "en": "Patenga Coastal Belt, Chattogram", "bn": "পতেঙ্গা কোস্টাল বেল্ট, চট্টগ্রাম" },
+      "year": 2024,
+      "areaSqFt": 1650,
+      "duration": { "en": "3.5 Months", "bn": "৩.৫ মাস" },
+      "style": { "en": "Organic Coastal Luxury", "bn": "অর্গানিক কোস্টাল লাক্সারি" },
+      "scope": { "en": "Master Suite & En-Suite Bath", "bn": "মাস্টার স্যুট ও বাথ" },
+      "clientType": { "en": "Private Vacation Villa", "bn": "ব্যক্তিগত ভ্যাকেশন ভিলা" }
+    },
+    "tags": [
+      { "en": "Patenga Seafront", "bn": "পতেঙ্গা" },
+      { "en": "Master Suite", "bn": "মাস্টার বেডরুম" },
+      { "en": "Ocean Horizon", "bn": "সি-ভিউ" }
+    ]
+  },
+  {
+    "id": "proj-06",
+    "slug": "mehdibag-amber-velvet-lounge",
+    "title": {
+      "en": "The Amber & Velvet Speakeasy Lounge",
+      "bn": "মেহেদীবাগ অ্যাম্বার ও ভেলভেট লাউঞ্জ"
+    },
+    "subtitle": {
+      "en": "An exclusive art-deco inspired private hospitality club with fluted amber glass and brushed brass.",
+      "bn": "মেহেদীবাগের অভিজাত মেম্বার্স ক্লাবে আর্ট-ডেকো অ্যাম্বার গ্লাস ও ভেলভেটে মোড়ানো লাউঞ্জ।"
+    },
+    "category": "hospitality",
+    "categoryLabel": {
+      "en": "Hospitality & Lounges",
+      "bn": "রেস্তোরাঁ ও লাউঞ্জ"
+    },
+    "featured": false,
+    "heroImage": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1600&q=85",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=1600&q=85",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "palette": [
+      { "name": { "en": "Vintage Amber", "bn": "ভিন্টেজ অ্যাম্বার" }, "hex": "#B87333", "role": { "en": "Lighting Glow", "bn": "আলোর আভা" } },
+      { "name": { "en": "Midnight Emerald", "bn": "এমারেল্ড গ্রিন" }, "hex": "#132E27", "role": { "en": "Plush Velvet", "bn": "ভেলভেট সিটিং" } },
+      { "name": { "en": "Brushed Gold", "bn": "গোল্ডেন ব্রাস" }, "hex": "#D4AF37", "role": { "en": "Bar Canopy", "bn": "ক্যানোপি" } }
+    ],
+    "materials": [
+      {
+        "name": { "en": "Cast Fluted Amber Glass", "bn": "ফ্লাটেড অ্যাম্বার গ্লাস" },
+        "description": { "en": "Refracts point lighting into warm honey-colored optical ribbons.", "bn": "বিশেষ কাচ যা আলোকে মৃদু সোনালী আভায় ছড়িয়ে দেয়।" },
+        "texture": "https://images.unsplash.com/photo-1598880940371-c756e015fea1?auto=format&fit=crop&w=400&q=80",
+        "category": { "en": "Glassware & Screen", "bn": "গ্লাস" }
+      }
+    ],
+    "overview": {
+      "en": "Situated near Chittagong Club in Mehdibag, this members lounge offers acoustic intimacy, bespoke brass vitrines, and custom velvet seating booths.",
+      "bn": "চট্টগ্রাম ক্লাবের কাছে মেহেদীবাগে অবস্থিত এই অভিজাত লাউঞ্জটি ঘরোয়া পরিবেশ ও নান্দনিক সান্ধ্য আড্ডার জন্য তৈরি।"
+    },
+    "designBrief": {
+      "en": "Evoke the golden era of 1920s architecture while providing state-of-the-art climate zoning.",
+      "bn": "১৯২০ সালের আর্ট-ডেকো আভিজাত্যের সাথে আধুনিক আরাম ও চমৎকার অ্যাকোস্টিকসের মিলন ঘটানো।"
+    },
+    "challenges": {
+      "en": "Enclosed space with zero natural windows and complex overhead building ductwork.",
+      "bn": "জানালাহীন আবদ্ধ স্থানে প্রাকৃতিক আলোর অনুভূতি সৃষ্টি করা।"
+    },
+    "solutions": {
+      "en": "Constructed a suspended illuminated brass coffer grid that diffuses warm glowing light downwards and hides all HVAC.",
+      "bn": "একটি ঝুলন্ত সোনালী সিলিং গ্রিড স্থাপন করা হয়েছে যা নরম আলো ছড়ায় এবং পাইপলাইন ঢেকে রাখে।"
+    },
+    "specs": {
+      "location": { "en": "Mehdibag, Chittagong Club District", "bn": "মেহেদীবাগ (চট্টগ্রাম ক্লাব এলাকা), চট্টগ্রাম" },
+      "year": 2025,
+      "areaSqFt": 3600,
+      "duration": { "en": "5 Months", "bn": "৫ মাস" },
+      "style": { "en": "Art-Deco Noir", "bn": "আর্ট-ডেকো নয়ার" },
+      "scope": { "en": "Full Hospitality & Lounge Design", "bn": "সম্পূর্ণ হসপিটালিটি ডিজাইন" },
+      "clientType": { "en": "Private Business Club", "bn": "প্রাইভেট মেম্বার্স ক্লাব" }
+    },
+    "tags": [
+      { "en": "Mehdibag", "bn": "মেহেদীবাগ" },
+      { "en": "Art Deco", "bn": "আর্ট ডেকো" },
+      { "en": "Velvet Lounge", "bn": "ভেলভেট লাউঞ্জ" }
+    ]
+  }
+]

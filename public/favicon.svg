@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <!-- Rich Smoked Walnut & Teak Wood Gradient -->
+    <linearGradient id="woodGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A3222" />
+      <stop offset="50%" stop-color="#322015" />
+      <stop offset="100%" stop-color="#1A0F0A" />
+    </linearGradient>
+
+    <!-- Warm Brushed Brass / Gold Joinery Gradient -->
+    <linearGradient id="brassGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4D086" />
+      <stop offset="50%" stop-color="#DCA764" />
+      <stop offset="100%" stop-color="#9E6D30" />
+    </linearGradient>
+
+    <!-- Ambient Shadow Filter -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Base Wooden Block with Rounded Chamfer -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#woodGradient)" stroke="url(#brassGradient)" stroke-width="2.5" filter="url(#shadow)" />
+
+  <!-- Inner Architectural Inlay Border -->
+  <rect x="7" y="7" width="50" height="50" rx="10" fill="none" stroke="url(#brassGradient)" stroke-width="1" stroke-dasharray="3,2" stroke-opacity="0.6" />
+
+  <!-- Monogram Glyph: "LA" (Lumen Atelier) -->
+  <g fill="url(#brassGradient)" filter="url(#shadow)">
+    <!-- Letter 'L' (Architectural Serif) -->
+    <path d="M19 19 h 4.5 v 20.5 h 11 v 4.5 H 19 Z" />
+    
+    <!-- Letter 'A' (Architectural Modern Apex) -->
+    <path d="M37 19 h 4.5 l 8.5 25 h -4.8 l -1.8 -5.5 h -8.8 l -1.8 5.5 H 28.5 Z m 3.8 5.8 l -3 9.2 h 6 Z" />
+
+    <!-- Corner Joinery Accents -->
+    <circle cx="10" cy="10" r="1.5" fill="url(#brassGradient)" />
+    <circle cx="54" cy="10" r="1.5" fill="url(#brassGradient)" />
+    <circle cx="10" cy="54" r="1.5" fill="url(#brassGradient)" />
+    <circle cx="54" cy="54" r="1.5" fill="url(#brassGradient)" />
+  </g>
+</svg>

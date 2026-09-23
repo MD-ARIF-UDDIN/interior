@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <defs>
+    <linearGradient id="woodBadge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A3222" />
+      <stop offset="100%" stop-color="#22140D" />
+    </linearGradient>
+    <linearGradient id="brassGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4D086" />
+      <stop offset="50%" stop-color="#DCA764" />
+      <stop offset="100%" stop-color="#A27134" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Monogram Tile -->
+  <rect x="10" y="10" width="60" height="60" rx="12" fill="url(#woodBadge)" stroke="url(#brassGold)" stroke-width="2" />
+  <rect x="15" y="15" width="50" height="50" rx="8" fill="none" stroke="url(#brassGold)" stroke-width="1" stroke-dasharray="3,2" opacity="0.6" />
+
+  <!-- Monogram LA -->
+  <g fill="url(#brassGold)">
+    <path d="M26 27 h 4 v 19 h 10 v 4 H 26 Z" />
+    <path d="M41 27 h 4 l 7.5 23 h -4.2 l -1.6 -5 h -7.8 l -1.6 5 H 33.5 Z m 3.4 5.2 l -2.6 8 h 5.2 Z" />
+  </g>
+
+  <!-- Brand Typography -->
+  <text x="85" y="42" font-family="'Cormorant Garamond', Georgia, serif" font-size="26" font-weight="700" letter-spacing="3" fill="url(#brassGold)">LUMEN ATELIER</text>
+  <text x="86" y="58" font-family="'Plus Jakarta Sans', sans-serif" font-size="8.5" font-weight="600" letter-spacing="2" fill="#BAA99B">ARCHITECTURE &amp; INTERIORS • CHATTOGRAM</text>
+</svg>

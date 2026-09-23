@@ -1,0 +1,167 @@
+{
+  "studioName": "LUMEN ATELIER",
+  "tagline": {
+    "en": "Architecture & Bespoke Interior Design — Chattogram & Dhaka",
+    "bn": "আর্কিটেকচার ও লাক্সারি ইন্টেরিয়র ডিজাইন — চট্টগ্রাম ও ঢাকা"
+  },
+  "stats": [
+    {
+      "value": "140+",
+      "label": { "en": "Crafted Sanctuaries", "bn": "সম্পন্ন প্রজেক্ট" },
+      "description": { "en": "Khulshi, Nasirabad & Agrabad spaces", "bn": "খুলশী, নাসিরাবাদ ও আগ্রাবাদের স্পেস" }
+    },
+    {
+      "value": "18+",
+      "label": { "en": "Design Laurels", "bn": "ডিজাইন পুরস্কার" },
+      "description": { "en": "National & Asian architecture awards", "bn": "জাতীয় ও এশিয়ান আর্কিটেকচার অ্যাওয়ার্ড" }
+    },
+    {
+      "value": "99%",
+      "label": { "en": "Client Retention", "bn": "ক্লায়েন্ট সন্তুষ্টি" },
+      "description": { "en": "Chattogram business families & patrons", "bn": "শীর্ষস্থানীয় ব্যবসায়ী ও পরিবার" }
+    },
+    {
+      "value": "100%",
+      "label": { "en": "Custom Millwork", "bn": "কাস্টম কারুশিল্প" },
+      "description": { "en": "Imported stone & bespoke teak joinery", "bn": "ইতালীয় মার্বেল ও কাস্টম কাঠের কাজ" }
+    }
+  ],
+  "processSteps": [
+    {
+      "stepNumber": "01",
+      "title": { "en": "Discovery & Spatial Planning", "bn": "আবিষ্কার ও স্থান পরিকল্পনা" },
+      "subtitle": { "en": "Topography, daylight analysis & lifestyle mapping", "bn": "পাহাড় ও আলোর অবস্থান, জীবনযাত্রা বিশ্লেষণ ও মুডবোর্ড" },
+      "description": {
+        "en": "We study your site's unique microclimate, natural wind flow, hill view vistas, and family rhythms to develop optimized architectural layouts.",
+        "bn": "আমরা আপনার স্থানের আলো, বাতাস ও পাহাড়ের ভিউ পর্যালোচনা করে পরিবারের জীবনযাত্রার উপযোগী নিখুঁত ফ্লোর প্ল্যান তৈরি করি।"
+      },
+      "deliverables": [
+        { "en": "Detailed 2D Floor Plans & Circulation Layouts", "bn": "বিস্তারিত ২ডি ফ্লোর প্ল্যান ও স্পেস লেআউট" },
+        { "en": "Sensory Moodboard & Tactile Material Swatches", "bn": "সেন্সরি মুডবোর্ড ও মেটেরিয়াল সোয়াচ" },
+        { "en": "Sun-Path & Daylight Analysis", "bn": "প্রাকৃতিক আলো ও বায়ু চলাচল বিশ্লেষণ" }
+      ],
+      "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "stepNumber": "02",
+      "title": { "en": "3D Photorealistic Visualization", "bn": "৩ডি ফটোরিয়ালিস্টিক ভিজ্যুয়ালাইজেশন" },
+      "subtitle": { "en": "Exact renders, lighting studies & material fidelity", "bn": "নিখুঁত রেন্ডার, কাস্টম লাইটিং ও ম্যাটেরিয়াল ভিজ্যুয়াল" },
+      "description": {
+        "en": "Experience your future sanctuary before construction begins. We produce 4K photorealistic walkthroughs capturing accurate stone veining and evening mood lighting.",
+        "bn": "নির্মাণ কাজ শুরুর আগেই আপনার ভবিষ্যৎ ঘরকে দেখুন অবিকল বাস্তব রূপের মতো। ৩ডি ভার্চুয়াল ওয়াকথ্রুর মাধ্যমে নিখুঁত ফিনিশিং আগেই দেখে নিন।"
+      },
+      "deliverables": [
+        { "en": "4K Ultra-Realistic Architectural Renders", "bn": "৪কে আল্ট্রা-রিয়ালিস্টিক আর্কিটেকচারাল রেন্ডার" },
+        { "en": "Full Lighting Calculation & Fixture Schedules", "bn": "সম্পূর্ণ লাইটিং ক্যালকুলেশন ও ফিক্সচার শিডিউল" },
+        { "en": "Virtual 360° Panoramic Walkthroughs", "bn": "ভার্চুয়াল ৩৬০° প্যানোরামিক ওয়াকথ্রু" }
+      ],
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "stepNumber": "03",
+      "title": { "en": "Artisan Craft & Material Sourcing", "bn": "উপাদান সংগ্রহ ও কাস্টম নির্মাণ" },
+      "subtitle": { "en": "Italian stone curation, bespoke joinery & site management", "bn": "ইতালীয় মার্বেল, কাস্টম উডওয়ার্ক ও নিবিড় সাইট তত্ত্বাবধান" },
+      "description": {
+        "en": "Our master artisans fabricate custom teak joinery, bookmatched marble slabs, and brushed brass details with millimeter precision under daily architectural supervision.",
+        "bn": "দক্ষ কারিগরদের দ্বারা কাস্টম ফার্নিচার, মার্বেল কাটিং ও ব্রাস ফিনিশিং সম্পন্ন করা হয় আমাদের অভিজ্ঞ আর্কিটেক্টদের সার্বক্ষণিক তত্ত্বাবধানে।"
+      },
+      "deliverables": [
+        { "en": "Direct Quarry Sourcing for High-Grade Marble", "bn": "সরাসরি আমদানি করা উচ্চমানের মার্বেল ও পাথর" },
+        { "en": "Bespoke Millwork & Custom Furniture Fabrication", "bn": "কাস্টম ফার্নিচার ও ইন্টেরিয়র উডওয়ার্ক তৈরি" },
+        { "en": "Rigorous Weekly Quality Assurance Audits", "bn": "সাপ্তাহিক গুণগত মান ও অগ্রগতি নিরীক্ষা" }
+      ],
+      "image": "https://images.unsplash.com/photo-1541123437800-1bb1317badc2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "stepNumber": "04",
+      "title": { "en": "Staging, Art Direction & Handover", "bn": "স্টাইলিং ও টার্নকি হ্যান্ডওভার" },
+      "subtitle": { "en": "Sculptural art curation, ambient tuning & turnkey reveal", "bn": "আর্ট পিস সংযোজন, নিখুঁত লাইটিং টিউনিং ও চাবি হস্তান্তর" },
+      "description": {
+        "en": "We style the space down to the organic linens, sculptural ceramic vessels, and curated art pieces. We hand over the keys to an immaculate turnkey experience.",
+        "bn": "পর্দা, কুশন, আর্ট পিস ও সুগন্ধি মোমের স্নিগ্ধ ছোঁয়া দিয়ে সম্পূর্ণ প্রস্তুত করে আমরা ক্লায়েন্টের হাতে চাবি তুলে দিই।"
+      },
+      "deliverables": [
+        { "en": "Curated Art & Sculptural Accent Sourcing", "bn": "আর্ট ও স্কাল্পচার সিলেকশন" },
+        { "en": "Acoustic Tuning & Smart Home Programming", "bn": "স্মার্ট হোম অটোমেশন ও টিউনিং" },
+        { "en": "Complete Turnkey White-Glove Handover", "bn": "সম্পূর্ণ প্রস্তুত স্পেস চাবি হস্তান্তর" }
+      ],
+      "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "materialsCatalog": [
+    {
+      "name": { "en": "Navona Roman Travertine", "bn": "রোমান নাভোনা ট্রাভার্টাইন" },
+      "category": { "en": "Natural Stone", "bn": "প্রাকৃতিক পাথর" },
+      "description": { "en": "Honed Italian travertine resistant to coastal humidity with tactile organic striations.", "bn": "ইতালিতে উত্তোলিত প্রাকৃতিক ট্রাভার্টাইন যা উপকূলীয় আবহাওয়া সহনশীল ও দৃষ্টিনন্দন।" },
+      "texture": "https://images.unsplash.com/photo-1598880940371-c756e015fea1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": { "en": "Fluted American Walnut & Teak", "bn": "ফ্লাটেড ওয়ালনাট ও বার্মিজ সেগুন" },
+      "category": { "en": "Hardwood Timber", "bn": "প্রিমিয়াম কাঠ" },
+      "description": { "en": "Deep chocolate tones and vertical channels providing acoustic harmony.", "bn": "গভীর চকলেট রঙের প্রাকৃতিক কাঠ যা রিদম ও অ্যাকোস্টিক ব্যালেন্স দেয়।" },
+      "texture": "https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": { "en": "Marine-Grade Brushed Brass", "bn": "মেরিন-গ্রেড ব্রাশড ব্রাস" },
+      "category": { "en": "Architectural Metals", "bn": "মেটাল অ্যাকসেন্ট" },
+      "description": { "en": "Saline-resistant golden sheen that patinas gracefully without tarnishing.", "bn": "উষ্ণ সোনালী মেটাল যা লবণাক্ত আবহাওয়াতেও দীর্ঘদিন অবিকল সুন্দর থাকে।" },
+      "texture": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": { "en": "Raw Textured Bouclé & Flax", "bn": "র টেক্সচার্ড বুঁক্লে ও ফ্লেক্স" },
+      "category": { "en": "Natural Textiles", "bn": "অর্গানিক ফেব্রিক" },
+      "description": { "en": "Heavy organic loop-yarn woven from pure unbleached wool and Belgian flax.", "bn": "খাঁটি উল ও ফ্লেক্সের সংমিশ্রণে তৈরি আরামদায়ক ও বিলাসবহুল টেক্সটাইল।" },
+      "texture": "https://images.unsplash.com/photo-1584589167171-541ce45f1eea?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": { "en": "Anti-Fungal Mineral Lime Plaster", "bn": "অ্যান্টি-ফাংগাল লাইম প্লাস্টার" },
+      "category": { "en": "Wall Finishes", "bn": "দেয়ালের ফিনিশ" },
+      "description": { "en": "Breathable Italian lime wash paint engineered for coastal longevity and velvety visual depth.", "bn": "প্রাকৃতিক লাইম পেইন্ট যা আর্দ্রতা প্রতিরোধ করে এবং দেয়ালে আলো-ছায়ার খেলা তৈরি করে।" },
+      "texture": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": { "en": "Nero Marquina & Viola Marble", "bn": "নেরো মারকুইনা ও ভায়োলা মার্বেল" },
+      "category": { "en": "Natural Stone", "bn": "প্রাকৃতিক পাথর" },
+      "description": { "en": "Bold black and white lightning veined stone for iconic culinary islands.", "bn": "কালো মার্বেলের ওপর রাজকীয় সাদা শিরার স্ল্যাব।" },
+      "texture": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": {
+        "en": "Lumen Atelier transformed our South Khulshi penthouse into an extraordinary architectural work of art. The Italian travertine stonework, double-height lighting vault, and concealed joinery exceed what we experienced in Singapore and Dubai luxury suites.",
+        "bn": "লুমেন অ্যাটেলিয়ার আমাদের দক্ষিণ খুলশীর পেন্টহাউসটিকে কল্পনাতীত রাজকীয় রূপ দিয়েছে। ট্রাভার্টাইন মার্বেলের নিখুঁত কাজ এবং লাইটিং সিঙ্গাপুর বা দুবাইয়ের ফাইভ-স্টার স্যুটের চেয়েও দারুণ।"
+      },
+      "clientName": { "en": "Haji Mohammed Shahjahan & Family", "bn": "হাজী মোহাম্মদ শাহজাহান ও পরিবার" },
+      "projectTitle": { "en": "The Travertine Sky Penthouse", "bn": "দ্য ট্রাভার্টাইন স্কাই পেন্টহাউস" },
+      "location": { "en": "South Khulshi R/A, Chattogram", "bn": "দক্ষিণ খুলশী আ/এ, চট্টগ্রাম" },
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "id": "t2",
+      "quote": {
+        "en": "Their understanding of hillside light, silence, and natural materiality is remarkable. They turned our Nasirabad duplex into a serene zen sanctuary that gives us immense peace every single day.",
+        "bn": "পাহাড়ের আলো এবং নিরিবিলি পরিবেশের সাথে মিল রেখে আমাদের নাসিরাবাদের বাড়িটি তারা যেভাবে সাজিয়ে দিয়েছে, তা প্রতিদিন আমাদের মনে অসীম প্রশান্তি এনে দেয়।"
+      },
+      "clientName": { "en": "Prof. Dr. Farhana Yasmin (Surgeon)", "bn": "প্রফেসর ডা. ফারহানা ইয়াসমিন" },
+      "projectTitle": { "en": "The Hillside Japandi Villa", "bn": "নাসিরাবাদ হিলসাইড জাপান্দি ভিলা" },
+      "location": { "en": "Nasirabad Housing, Chattogram", "bn": "নাসিরাবাদ হাউজিং, চট্টগ্রাম" },
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "id": "t3",
+      "quote": {
+        "en": "Our corporate headquarters in Agrabad C/A is now celebrated by all our international marine shipping partners. The curved acoustic glass pods and biophilic plant walls are top-tier.",
+        "bn": "আগ্রাবাদে আমাদের করপোরেট অফিস ডিজাইন করার পর বিদেশি শিপিং পার্টনাররাও প্রশংসা করছেন। সাউন্ডপ্রুফ গ্লাস কেবিন ও নান্দনিক কাজের মান এক কথায় অসাধারণ।"
+      },
+      "clientName": { "en": "Tanveer Ahmed (Managing Director, Marine Logistics)", "bn": "তানভীর আহমেদ (ম্যানেজিং ডিরেক্টর)" },
+      "projectTitle": { "en": "The Maritime Executive Atelier", "bn": "আগ্রাবাদ মেরিটাইম হেডকোয়ার্টার" },
+      "location": { "en": "Agrabad C/A, Chattogram", "bn": "আগ্রাবাদ বাণিজ্যিক এলাকা, চট্টগ্রাম" },
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80"
+    }
+  ]
+}
